@@ -20,6 +20,11 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.6",
     "nodemon": "^2.0.12",
-    "react-router-dom": "^5.2.0"
+    "react-markdown": "^7.0.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0"
   }
 }
